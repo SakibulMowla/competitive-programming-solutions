@@ -1,0 +1,53 @@
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+    int r,c,i,j,k,count;
+    char arr[110][100],z;
+    while(scanf("%d %d%c",&r,&c,&z)==3)
+    {
+        if(r==0 && c==0)
+            break;
+        for(i=1;i<=r;i++)
+        {
+            for(j=1;j<=c;j++)
+            {
+                scanf("%c",&arr[i][j]);
+            }
+            getchar();
+        }
+
+        count=0;
+        for(i=1;i<=r;i++)
+        {
+            for(j=1;j<=c;j++)
+            {
+                if(arr[i][j]=='*')
+                {
+                    if(arr[i-1][j-1]=='*') continue;
+
+                    if(arr[i-1][j]=='*') continue;
+
+                    if(arr[i-1][j+1]=='*') continue;
+
+                    if(arr[i][j-1]=='*') continue;
+
+                    if(arr[i][j+1]=='*') continue;
+
+                    if(arr[i+1][j-1]=='*') continue;
+
+                    if(arr[i+1][j]=='*') continue;
+
+                    if(arr[i+1][j+1]=='*') continue;
+
+                    count++;
+                }
+            }
+        }
+        printf("%d\n",count);
+        memset(arr,0,sizeof(arr));
+    }
+
+    return 0;
+}

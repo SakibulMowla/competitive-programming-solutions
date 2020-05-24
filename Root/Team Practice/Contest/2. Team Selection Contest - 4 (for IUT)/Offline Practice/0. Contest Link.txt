@@ -1,0 +1,2 @@
+http://vjudge.net/vjudge/contest/view.action?cid=55740#overview
+pass: laconfidential

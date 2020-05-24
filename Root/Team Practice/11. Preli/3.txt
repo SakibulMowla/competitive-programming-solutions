@@ -1,0 +1,5 @@
+Case 1: Okay got it!
+Case 2: Oh no it is ambiguous!
+Case 3: I am sure there is some kinda mistake!
+Case 4: I am sure there is some kinda mistake!
+Case 5: I am sure there is some kinda mistake!
