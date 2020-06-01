@@ -33,7 +33,7 @@ Also contains some solutions from contests like:
 ## Search Tips
 
 - Press `T` or click [Find File](https://github.com/SakibulMowla/competitive-programming-solutions/find/master)
-- Strat typing name of the problem or number
+- Strat typing name or number of the problem
 - If it's there, it's there
 
 ## Author's Profile in Some Online Judges
