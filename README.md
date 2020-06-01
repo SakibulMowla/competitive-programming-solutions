@@ -30,6 +30,12 @@ Also contains some solutions from contests like:
 - Yandex Algorithm
 - Google Kickstart
 
+## Search Tips
+
+- Press `T` or click [Find File](https://github.com/SakibulMowla/competitive-programming-solutions/find/master)
+- Strat typing name of the problem or number
+- If it's there, it's there
+
 ## Author's Profile in Some Online Judges
 
 | Judge         | Handle                                                            | Problems Solved | Max Rating |
