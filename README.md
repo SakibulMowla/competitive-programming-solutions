@@ -37,6 +37,8 @@ Also contains some solutions from contests like:
 | UVa           | [Sakibul Mowla](https://uhunt.onlinejudge.org/id/151135)          | 864*            | N/A        |
 | CodeForces    | [J-C](https://codeforces.com/profile/J-C)                         | 640*            | 1907       |
 | TopCoder      | [Hing-Ting-Chot](https://www.topcoder.com/members/Hing-Ting-Chot) | ?               | 1498       |
+| CodeChef      | [sakibul_mowla](https://www.codechef.com/users/sakibul_mowla)     | 208             | 1599       |
+| HackerRank    | [Sakibul_Mowla](https://www.hackerrank.com/Sakibul_Mowla)         | ?               | 2104       |
 
 ## Some Points to be Noted
 
